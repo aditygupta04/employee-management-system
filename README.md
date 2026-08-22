@@ -24,7 +24,7 @@ This is a frontend-focused project — authentication and data persistence are s
 ## Getting Started
 
 \`\`\`bash
-git clone <your-repo-url>
+git clone <https://github.com/aditygupta04/employee-management-system>
 cd ems
 npm install
 npm run dev
